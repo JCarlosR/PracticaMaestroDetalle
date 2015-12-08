@@ -22,3 +22,11 @@ C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetall
 C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.dll
 C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.xml
 C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.pdb
+C:\Users\USUARIO\Documents\GitHub\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.dll
+C:\Users\USUARIO\Documents\GitHub\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\Documents\GitHub\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.xml
+C:\Users\USUARIO\Documents\GitHub\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\USUARIO\Documents\GitHub\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\GitHub\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.dll
+C:\Users\USUARIO\Documents\GitHub\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.xml
+C:\Users\USUARIO\Documents\GitHub\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.pdb

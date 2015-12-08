@@ -182,6 +182,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="MaestroDetalle.aspx" />
+    <Content Include="MaestroDetalleDoc.aspx" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -189,6 +190,7 @@
     <Content Include="Account\Web.config" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Registro.aspx" />
+    <Content Include="RegistroDoc.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -302,6 +304,13 @@
       <DependentUpon>MaestroDetalle.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="MaestroDetalleDoc.aspx.designer.vb">
+      <DependentUpon>MaestroDetalleDoc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MaestroDetalleDoc.aspx.vb">
+      <DependentUpon>MaestroDetalleDoc.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Models\IdentityModels.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -327,6 +336,13 @@
     </Compile>
     <Compile Include="Registro.aspx.vb">
       <DependentUpon>Registro.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="RegistroDoc.aspx.designer.vb">
+      <DependentUpon>RegistroDoc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroDoc.aspx.vb">
+      <DependentUpon>RegistroDoc.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Site.Master.designer.vb">

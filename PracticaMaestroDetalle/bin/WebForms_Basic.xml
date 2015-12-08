@@ -6,31 +6,310 @@ PracticaMaestroDetalle
 </name>
 </assembly>
 <members>
-<member name="P:PracticaMaestroDetalle.My.MyWebExtension.Computer">
+<member name="F:PracticaMaestroDetalle.RegistroDoc.txtDocumento">
 	<summary>
- Devuelve información sobre el equipo host.
- </summary>
-</member><member name="P:PracticaMaestroDetalle.My.MyWebExtension.User">
+Control txtDocumento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.txtFecha">
 	<summary>
- Devuelve información del usuario web actual.
- </summary>
-</member><member name="P:PracticaMaestroDetalle.My.MyWebExtension.Request">
+Control txtFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.cboPedidos">
 	<summary>
- Devuelve un objeto Request.
- </summary>
-</member><member name="P:PracticaMaestroDetalle.My.MyWebExtension.Response">
+Control cboPedidos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.cboProveedor">
 	<summary>
- Devuelve un objeto Response.
- </summary>
-</member><member name="P:PracticaMaestroDetalle.My.MyWebExtension.Log">
+Control cboProveedor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.cboCliente">
 	<summary>
- Devuelve el objeto de registro Asp.
- </summary>
-</member><member name="T:PracticaMaestroDetalle.My.MyWebExtension">
+Control cboCliente.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.cboPersonal">
 	<summary>
- Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
- </summary>
-	<remarks></remarks>
+Control cboPersonal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.cboFormaPago">
+	<summary>
+Control cboFormaPago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.cboTipoDoc">
+	<summary>
+Control cboTipoDoc.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.cboMarca">
+	<summary>
+Control cboMarca.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.cboProducto">
+	<summary>
+Control cboProducto.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.txtCantidad">
+	<summary>
+Control txtCantidad.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.txtIgv">
+	<summary>
+Control txtIgv.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.txtPrecio">
+	<summary>
+Control txtPrecio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.btnAgregar">
+	<summary>
+Control btnAgregar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.gvProductos">
+	<summary>
+Control gvProductos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.btnGuardar">
+	<summary>
+Control btnGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.RegistroDoc.btnCancelar">
+	<summary>
+Control btnCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.txtDesde">
+	<summary>
+Control txtDesde.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.txtHasta">
+	<summary>
+Control txtHasta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.btnBuscar">
+	<summary>
+Control btnBuscar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.gvDocumentos">
+	<summary>
+Control gvDocumentos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.gvDetalles">
+	<summary>
+Control gvDetalles.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.txtDocumento">
+	<summary>
+Control txtDocumento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.txtCodigo">
+	<summary>
+Control txtCodigo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.txtDescripcion">
+	<summary>
+Control txtDescripcion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.txtCantidad">
+	<summary>
+Control txtCantidad.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.txtPrecio">
+	<summary>
+Control txtPrecio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.btnNuevo">
+	<summary>
+Control btnNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.btnModificar">
+	<summary>
+Control btnModificar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.MaestroDetalleDoc.btnEliminar">
+	<summary>
+Control btnEliminar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.Login.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.Login.FailureText">
+	<summary>
+Control FailureText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.Login.UserName">
+	<summary>
+Control userName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.Login.Password">
+	<summary>
+Control de contraseña.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.Login.RememberMe">
+	<summary>
+Control RememberMe.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.Login.RegisterHyperLink">
+	<summary>
+Control RegisterHyperLink.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.Login.OpenAuthLogin">
+	<summary>
+Control OpenAuthLogin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PracticaMaestroDetalle.OpenAuthProviders.providerDetails">
+	<summary>
+Control providerDetails.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:PracticaMaestroDetalle.Site_Mobile.Head1">
 	<summary>
 Control Head1.
@@ -79,9 +358,130 @@ Control ViewSwitcher1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PracticaMaestroDetalle.RegisterExternalLogin.userName">
+</member><member name="F:PracticaMaestroDetalle.Manage.SuccessMessagePlaceHolder">
 	<summary>
-Control userName.
+ Control SuccessMessagePlaceHolder.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.setPassword">
+	<summary>
+ Control setPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.password">
+	<summary>
+ contraseña de control.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.confirmPassword">
+	<summary>
+ Control confirmPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.changePasswordHolder">
+	<summary>
+ Control changePasswordHolder.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.changePasswordUserName">
+	<summary>
+ Control changePasswordUserName.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.CurrentPasswordLabel">
+	<summary>
+ Control CurrentPasswordLabel.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.CurrentPassword">
+	<summary>
+ Control CurrentPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.NewPasswordLabel">
+	<summary>
+ Control NewPasswordLabel.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.NewPassword">
+	<summary>
+ Control NewPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.ConfirmNewPasswordLabel">
+	<summary>
+ Control ConfirmNewPasswordLabel.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:PracticaMaestroDetalle.Manage.ConfirmNewPassword">
+	<summary>
+ Control ConfirmNewPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="P:PracticaMaestroDetalle.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:PracticaMaestroDetalle.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:PracticaMaestroDetalle.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:PracticaMaestroDetalle.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:PracticaMaestroDetalle.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:PracticaMaestroDetalle.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PracticaMaestroDetalle.SiteMaster.MainContent">
+	<summary>
+Control MainContent.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -138,22 +538,6 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </member><member name="F:PracticaMaestroDetalle.MaestroDetalle.btnModificar">
 	<summary>
 Control btnModificar.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PracticaMaestroDetalle.SiteMaster.MainContent">
-	<summary>
-Control MainContent.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PracticaMaestroDetalle.OpenAuthProviders.providerDetails">
-	<summary>
-Control providerDetails.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -303,153 +687,9 @@ Control btnCancelar.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.SuccessMessagePlaceHolder">
-	<summary>
- Control SuccessMessagePlaceHolder.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.setPassword">
-	<summary>
- Control setPassword.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.password">
-	<summary>
- contraseña de control.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.confirmPassword">
-	<summary>
- Control confirmPassword.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.changePasswordHolder">
-	<summary>
- Control changePasswordHolder.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.changePasswordUserName">
-	<summary>
- Control changePasswordUserName.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.CurrentPasswordLabel">
-	<summary>
- Control CurrentPasswordLabel.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.CurrentPassword">
-	<summary>
- Control CurrentPassword.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.NewPasswordLabel">
-	<summary>
- Control NewPasswordLabel.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.NewPassword">
-	<summary>
- Control NewPassword.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.ConfirmNewPasswordLabel">
-	<summary>
- Control ConfirmNewPasswordLabel.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Manage.ConfirmNewPassword">
-	<summary>
- Control ConfirmNewPassword.
- </summary>
-	<remarks>
- Campo generado automáticamente.
- Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
- </remarks>
-</member><member name="F:PracticaMaestroDetalle.Login.ErrorMessage">
-	<summary>
-Control ErrorMessage.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PracticaMaestroDetalle.Login.FailureText">
-	<summary>
-Control FailureText.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PracticaMaestroDetalle.Login.UserName">
+</member><member name="F:PracticaMaestroDetalle.RegisterExternalLogin.userName">
 	<summary>
 Control userName.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PracticaMaestroDetalle.Login.Password">
-	<summary>
-Control de contraseña.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PracticaMaestroDetalle.Login.RememberMe">
-	<summary>
-Control RememberMe.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PracticaMaestroDetalle.Login.RegisterHyperLink">
-	<summary>
-Control RegisterHyperLink.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PracticaMaestroDetalle.Login.OpenAuthLogin">
-	<summary>
-Control OpenAuthLogin.
 </summary>
 	<remarks>
 Campo generado automáticamente.

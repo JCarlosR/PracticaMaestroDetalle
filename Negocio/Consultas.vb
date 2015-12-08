@@ -225,5 +225,197 @@ Public Class Consultas
         End Try
     End Function
 
+    'Logica para el maestro-detalle de documentos 
+    Public Shared Function ListarDocumentos(ByVal inicio As Date, ByVal fin As Date) As DataTable
+        Try
+            Dim sql As String = "SP_ListarDocumentos"
+            Dim cmd As New SqlCommand(sql, abrirConexion())
+            cmd.CommandType = CommandType.StoredProcedure
+            cmd.Parameters.Add("@inicio", SqlDbType.Date).Value = inicio
+            cmd.Parameters.Add("@fin", SqlDbType.Date).Value = fin
+
+            Dim tabla As New DataTable
+            Dim adap As New SqlDataAdapter(cmd)
+            adap.Fill(tabla)
+            If tabla.Rows.Count <= 0 Then
+                Return Nothing
+            Else
+                Return tabla
+            End If
+        Catch ex As Exception
+            MsgBox(ex.ToString)
+            Return Nothing
+        Finally
+            cerrarConexion()
+        End Try
+    End Function
+
+    Public Shared Function MostrarDetalleDoc(ByVal documento As String) As DataTable
+        Try
+            Dim sql As String = "SP_MostrarDetalleDoc"
+            Dim cmd As New SqlCommand(sql, abrirConexion())
+            cmd.CommandType = CommandType.StoredProcedure
+            cmd.Parameters.Add("@documento", SqlDbType.Char).Value = documento
+
+            Dim tabla As New DataTable
+            Dim adap As New SqlDataAdapter(cmd)
+            adap.Fill(tabla)
+            If tabla.Rows.Count <= 0 Then
+                Return Nothing
+            Else
+                Return tabla
+            End If
+        Catch ex As Exception
+            MsgBox(ex.ToString)
+            Return Nothing
+        Finally
+            cerrarConexion()
+        End Try
+    End Function
+
+    Public Shared Function ListarProveedor() As DataTable
+        Try
+            Dim sql As String = "SELECT * FROM V_Proveedor"
+            Dim cmd As New SqlCommand(sql, abrirConexion())
+            cmd.CommandType = CommandType.Text
+
+            Dim tabla As New DataTable
+            Dim adap As New SqlDataAdapter(cmd)
+            adap.Fill(tabla)
+            If tabla.Rows.Count <= 0 Then
+                Return Nothing
+            Else
+                Return tabla
+            End If
+        Catch ex As Exception
+            MsgBox(ex.ToString)
+            Return Nothing
+        Finally
+            cerrarConexion()
+        End Try
+    End Function
+
+    Public Shared Function ListarPedido() As DataTable
+        Try
+            Dim sql As String = "SELECT * FROM V_Pedido"
+            Dim cmd As New SqlCommand(sql, abrirConexion())
+            cmd.CommandType = CommandType.Text
+
+            Dim tabla As New DataTable
+            Dim adap As New SqlDataAdapter(cmd)
+            adap.Fill(tabla)
+            If tabla.Rows.Count <= 0 Then
+                Return Nothing
+            Else
+                Return tabla
+            End If
+        Catch ex As Exception
+            MsgBox(ex.ToString)
+            Return Nothing
+        Finally
+            cerrarConexion()
+        End Try
+    End Function
+
+    Public Shared Function ListarTipoDoc() As DataTable
+        Try
+            Dim sql As String = "SELECT * FROM V_TipoDoc"
+            Dim cmd As New SqlCommand(sql, abrirConexion())
+            cmd.CommandType = CommandType.Text
+
+            Dim tabla As New DataTable
+            Dim adap As New SqlDataAdapter(cmd)
+            adap.Fill(tabla)
+            If tabla.Rows.Count <= 0 Then
+                Return Nothing
+            Else
+                Return tabla
+            End If
+        Catch ex As Exception
+            MsgBox(ex.ToString)
+            Return Nothing
+        Finally
+            cerrarConexion()
+        End Try
+    End Function
+    'Documento, TipoDoc, Pedido, Proveedor, Cliente, Fecha, Personal, Pagado, FormaPago
+    Public Shared Function RegistrarDocumento(ByVal Documento As String, ByVal TipoDoc As String, ByVal Pedido As String, ByVal Proveedor As String, ByVal Cliente As String, ByVal Fecha As Date, ByVal Personal As String, ByVal Pagado As String, ByVal FormaPago As String) As String
+        Try
+            Dim sql As String = "SP_RegistrarDocumento"
+            Dim cmd As New SqlCommand(sql, abrirConexion())
+            cmd.CommandType = CommandType.StoredProcedure
+            cmd.Parameters.Add("@Documento", SqlDbType.Char).Value = Documento
+            cmd.Parameters.Add("@TipoDoc", SqlDbType.Char).Value = TipoDoc
+            cmd.Parameters.Add("@Proveedor", SqlDbType.Char).Value = Proveedor
+            cmd.Parameters.Add("@Pedido", SqlDbType.Char).Value = Pedido
+            cmd.Parameters.Add("@Cliente", SqlDbType.Char).Value = Cliente
+            cmd.Parameters.Add("@Fecha", SqlDbType.Date).Value = Fecha
+            cmd.Parameters.Add("@Personal", SqlDbType.Char).Value = Personal
+            cmd.Parameters.Add("@Pagado", SqlDbType.Decimal).Value = CDec(Pagado)
+            cmd.Parameters.Add("@FormaPago", SqlDbType.Char).Value = FormaPago
+            Dim i As Integer = cmd.ExecuteNonQuery()
+            Return "Se insertaron exitosamente " + CStr(i) + " filas."
+        Catch ex As Exception
+            Return "Ocurrió un error inesperado: " + ex.ToString
+        Finally
+            cerrarConexion()
+        End Try
+    End Function
+    'Documento, Tipo, Producto, Cantidad, Igv, Precio
+    Public Shared Function RegistrarDetaDoc(ByVal Documento As String, ByVal Tipo As String, ByVal Producto As String, ByVal Cantidad As Integer, ByVal Igv As Decimal, ByVal PrecUnit As Decimal) As String
+        Try
+            Dim sql As String = "SP_RegistrarDetaDoc"
+            Dim cmd As New SqlCommand(sql, abrirConexion())
+            cmd.CommandType = CommandType.StoredProcedure
+            cmd.Parameters.Add("@Documento", SqlDbType.Char).Value = Documento
+            cmd.Parameters.Add("@TipoDoc", SqlDbType.Char).Value = Tipo
+            cmd.Parameters.Add("@Producto", SqlDbType.Char).Value = Producto
+            cmd.Parameters.Add("@Cantidad", SqlDbType.Decimal).Value = Cantidad
+            cmd.Parameters.Add("@Igv", SqlDbType.Decimal).Value = Igv
+            cmd.Parameters.Add("@PrecUnit", SqlDbType.Decimal).Value = PrecUnit
+            Dim i As Integer = cmd.ExecuteNonQuery()
+            Return "Se modificaron exitosamente " + CStr(i) + " filas."
+        Catch ex As Exception
+            Return "Ocurrió un error inesperado: " + ex.ToString
+        Finally
+            cerrarConexion()
+        End Try
+    End Function
+    '(Documento, Pedido, Producto, Cantidad, PrecUnit
+    Public Shared Function ModificarDetalleDoc(ByVal Documento As String, ByVal Producto As String, ByVal Cantidad As String, ByRef Igv As String, ByVal PrecUnit As String) As String
+        Try
+            Dim sql As String = "SP_ModificarDetaDoc"
+            Dim cmd As New SqlCommand(sql, abrirConexion())
+            cmd.CommandType = CommandType.StoredProcedure
+            cmd.Parameters.Add("@Documento", SqlDbType.Char).Value = Documento
+            cmd.Parameters.Add("@Producto", SqlDbType.Char).Value = Producto
+            cmd.Parameters.Add("@Cantidad", SqlDbType.Decimal).Value = Cantidad
+            cmd.Parameters.Add("@Igv", SqlDbType.Decimal).Value = Igv
+            cmd.Parameters.Add("@PrecUnit", SqlDbType.Decimal).Value = PrecUnit
+            Dim i As Integer = cmd.ExecuteNonQuery()
+            Return "Se modificaron exitosamente " + CStr(i) + " filas."
+        Catch ex As Exception
+            Return "Ocurrió un error inesperado: " + ex.ToString
+        Finally
+            cerrarConexion()
+        End Try
+    End Function
+
+    Public Shared Function EliminarDetalleDoc(ByVal Documento As String, ByVal Producto As String)
+        Try
+            Dim sql As String = "SP_EliminarDetaDoc"
+            Dim cmd As New SqlCommand(sql, abrirConexion())
+            cmd.CommandType = CommandType.StoredProcedure
+            cmd.Parameters.Add("@Documento", SqlDbType.Char).Value = Documento
+            cmd.Parameters.Add("@Producto", SqlDbType.Char).Value = Producto
+
+            Dim i As Integer = cmd.ExecuteNonQuery()
+            Return "Se modificaron exitosamente " + CStr(i) + " filas."
+        Catch ex As Exception
+            Return "Ocurrió un error inesperado: " + ex.ToString
+        Finally
+            cerrarConexion()
+        End Try
+    End Function
 
 End Class
