@@ -8,14 +8,15 @@ Public Class Registro
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         If Page.IsPostBack = False Then
             LlenarListas()
+        End If
 
+        If productos.Columns.Count = 0 Then
             productos.Columns.Add(New DataColumn("Producto"))
             productos.Columns.Add(New DataColumn("Descripcion"))
             productos.Columns.Add(New DataColumn("Cantidad"))
             productos.Columns.Add(New DataColumn("Precio"))
             productos.Columns.Add(New DataColumn("Subtotal"))
         End If
-        
     End Sub
 
     Public Sub LlenarListas()
@@ -48,29 +49,18 @@ Public Class Registro
     End Sub
 
     Protected Sub btnAgregar_Click(sender As Object, e As EventArgs) Handles btnAgregar.Click
-        'cabecera
-        'Dim pedido As Integer = txtPedido.Text
-        'Dim fecha As Date = txtFecha.Text
-        'Dim cliente As String = cboCliente.SelectedValue
-        'Dim personal As String = cboPersonal.SelectedValue
-        'Dim formaPago As String = cboFormaPago.SelectedValue
-        'Dim marca As String = cboMarca.SelectedValue
-        'Dim producto As String = cboProducto.SelectedValue
-
-        'detalle
+        ' Agregar un detalle
         Dim cantidad As Integer = CInt(txtCantidad.Text)
         Dim precio As Double = CDbl(txtPrecio.Text)
         Dim subtotal As Double = cantidad * precio
 
+        ' Actualizar el campo total pedido
         total += subtotal
-        'Dim totalPedido As Double = CDbl(txtTotalPedido.Text)
+        txtTotalPedido.Text = total
 
-        
         productos.Rows.Add(cboProducto.SelectedValue, cboProducto.SelectedItem, cantidad, precio, subtotal)
         gvProductos.DataSource = productos
         gvProductos.DataBind()
-
-        txtTotalPedido.Text = total
 
         limpiarCamposAgregar()
     End Sub
@@ -98,7 +88,7 @@ Public Class Registro
     End Sub
 
     Private Sub cargarPrecio()
-        Dim precio As Double = Consultas.ObtenerPrecio(cboProducto.SelectedValue)
+        Dim precio As String = Consultas.ObtenerPrecio(cboProducto.SelectedValue).ToString("0.00", System.Globalization.CultureInfo.InvariantCulture)
         txtPrecio.Text = precio
     End Sub
 
@@ -116,10 +106,8 @@ Public Class Registro
 
         For Each fila As DataRow In productos.Rows
             Dim Producto As String = fila("Producto")
-            ' Dim Descripcion As String = fila("Descripcion")
             Dim Cantidad As Integer = fila("Cantidad")
             Dim Precio As Decimal = fila("Precio")
-            ' Dim Subtotal As String = fila("Subtotal")
 
             Consultas.RegistrarDetaPedido(Pedido, Producto, Cantidad, Precio)
         Next
