@@ -5,12 +5,12 @@
 
     <div class="form-group">
         Pedido
-        <asp:TextBox ID="txtPedido" runat="server" CssClass="form-control"></asp:TextBox>
+        <asp:TextBox ID="txtPedido" runat="server" CssClass="form-control" required></asp:TextBox>
     </div>    
 
     <div class="form-group">
         Fecha
-        <asp:TextBox ID="txtFecha" runat="server" TextMode="Date" CssClass="form-control"></asp:TextBox>
+        <asp:TextBox ID="txtFecha" runat="server" TextMode="Date" CssClass="form-control" required></asp:TextBox>
     </div>
 
     <div class="form-group">
@@ -64,7 +64,7 @@
     <div class="form-group">
         <asp:GridView ID="gvProductos" runat="server" CssClass="table table-hover">
             <Columns>
-                <asp:CommandField ShowEditButton="True" />
+                <asp:CommandField ShowDeleteButton="True" />
             </Columns>
         </asp:GridView>
     </div>

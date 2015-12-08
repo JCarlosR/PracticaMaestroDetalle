@@ -50,9 +50,21 @@ Public Class Registro
 
     Protected Sub btnAgregar_Click(sender As Object, e As EventArgs) Handles btnAgregar.Click
         ' Agregar un detalle
-        Dim cantidad As Integer = CInt(txtCantidad.Text)
-        Dim precio As Double = CDbl(txtPrecio.Text)
-        Dim subtotal As Double = cantidad * precio
+        Dim cantidad As Integer
+        Dim precio As Double
+        Dim subtotal As Double
+
+        Try
+            cantidad = CInt(txtCantidad.Text)
+            precio = CDbl(txtPrecio.Text)
+            subtotal = cantidad * precio
+        Catch ex As Exception
+            Return
+        End Try
+
+        If existeProducto(cboProducto.SelectedValue) Then
+            Return
+        End If
 
         ' Actualizar el campo total pedido
         total += subtotal
@@ -64,6 +76,16 @@ Public Class Registro
 
         limpiarCamposAgregar()
     End Sub
+
+    Private Function existeProducto(ByVal Producto As String) As Boolean
+        For Each fila As DataRow In productos.Rows
+            If fila("Producto") = Producto Then
+                Return True
+            End If
+        Next
+
+        Return False
+    End Function
 
     Private Sub limpiarCamposAgregar()
         txtCantidad.Text = ""
@@ -112,6 +134,12 @@ Public Class Registro
             Consultas.RegistrarDetaPedido(Pedido, Producto, Cantidad, Precio)
         Next
 
+    End Sub
+
+    Protected Sub gvProductos_RowDeleting(sender As Object, e As GridViewDeleteEventArgs) Handles gvProductos.RowDeleting
+        productos.Rows.RemoveAt(e.RowIndex)
+        gvProductos.DataSource = productos
+        gvProductos.DataBind()
     End Sub
 
 End Class
