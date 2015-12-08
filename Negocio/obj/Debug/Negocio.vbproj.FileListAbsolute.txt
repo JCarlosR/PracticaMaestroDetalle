@@ -1,0 +1,24 @@
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\bin\Debug\Negocio.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\Negocio\obj\Debug\Negocio.pdb

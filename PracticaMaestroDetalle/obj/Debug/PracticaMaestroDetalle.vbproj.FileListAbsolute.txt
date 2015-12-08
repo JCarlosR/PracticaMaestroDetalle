@@ -1,0 +1,217 @@
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.vbprojResolveAssemblyReference.cache
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.Resources.resources
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.vbproj.GenerateResource.Cache
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\PracticaMaestroDetalle.dll.config
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\PracticaMaestroDetalle.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\PracticaMaestroDetalle.pdb
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\WebForms_Basic.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Antlr3.Runtime.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.SqlServer.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Negocio.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Newtonsoft.Json.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Owin.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\System.Web.Optimization.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\System.Web.Providers.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\WebGrease.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Negocio.pdb
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Negocio.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\System.Web.Optimization.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Antlr3.Runtime.pdb
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Newtonsoft.Json.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.SqlServer.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\EntityFramework.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\System.Web.Providers.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.dll
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\WebForms_Basic.xml
+C:\Users\ErickAlfaro\Documents\Visual Studio 2013\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.pdb
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\PracticaMaestroDetalle.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\PracticaMaestroDetalle.pdb
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\WebForms_Basic.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Antlr3.Runtime.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Negocio.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Newtonsoft.Json.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Owin.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\System.Web.Optimization.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\System.Web.Providers.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\WebGrease.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Negocio.pdb
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Negocio.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\System.Web.Optimization.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Antlr3.Runtime.pdb
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Newtonsoft.Json.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\EntityFramework.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\System.Web.Providers.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.vbprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.Resources.resources
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.vbproj.GenerateResource.Cache
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.dll
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\WebForms_Basic.xml
+C:\Users\Toshiba\Desktop\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\PracticaMaestroDetalle.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\PracticaMaestroDetalle.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\WebForms_Basic.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Antlr3.Runtime.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.SqlServer.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Negocio.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Newtonsoft.Json.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Owin.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\System.Web.Optimization.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\System.Web.Providers.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\WebGrease.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Negocio.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Negocio.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\System.Web.Optimization.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Antlr3.Runtime.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Newtonsoft.Json.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\EntityFramework.SqlServer.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\EntityFramework.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\System.Web.Providers.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.vbprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.Resources.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.vbproj.GenerateResource.Cache
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\WebForms_Basic.xml
+C:\Users\Juan Carlos\Documents\Visual Studio 2012\Projects\PracticaMaestroDetalle\PracticaMaestroDetalle\obj\Debug\PracticaMaestroDetalle.pdb
